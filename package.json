@@ -1,0 +1,12 @@
+{
+  "name": "workflows",
+  "version": "0.0.1",
+  "description": "A project of showcase workflows",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Øyvind Høie",
+  "license": "ISC"
+}
